@@ -2,17 +2,34 @@
 
 ## Required Work:
 
+- Completed all the required work.
+
+### Create IAM user
+
+Following best practice and using IAM user with admin and billing policies attached instead of root account. MFA enabled for user account.
+
+![IAM-user](assets/week0-user.png)
+![admin-billing](assets/week0-adminbilling.png)
+
 ### Conceptual Design
 
 ![conceptual-diagram](assets/week0-conceptual-diagram.png)
+
+High level Architecture design for all stakeholders.
 
 ### Logical Architecture Design
 
 ![main-diagram](assets/week0-logical-diagram-main.png)
 
-### Create Budget
+Detailed design of the architecture for the technical team.
+
+### Create Budget And Billing Alarm
 
 ![budget](assets/budget-aws.png)
+Created budget.
+
+![billing-alert](assets/week0-billing-alert.png)
+Created billing alert.
 
 ## Challenges:
 
