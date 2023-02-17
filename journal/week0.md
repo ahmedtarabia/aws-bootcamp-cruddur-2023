@@ -45,7 +45,7 @@ Logical CI/CD pipeline for the application.
 
 ## Obstacles & Solution:
 
-I played with cloudtrail and used alot of the S3 free tier resources but I was notified because of the budget and billing alarm set.
+I played with cloudtrail and used alot of the S3 free tier resources but I was notified because of the budget set.
 
 Deleted the cloudtrail that used those resources.
 
