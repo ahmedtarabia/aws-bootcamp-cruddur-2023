@@ -12,11 +12,16 @@
 
 ### Create Budget
 
+![budget](assets/budget-aws.png)
+
 ## Challenges:
+
+- Reviewed all the questions of each pillars in the Well Architected Tool
 
 ### Pipeline Logical Design
 
 ![pipeline-diagram](assets/week0-logical-diagram-pipeline.png)
 
-##Obstacles:
+## Obstacles:
+
 I played with cloudtrail and used alot of the S3 free tier resources but I was notified because of the budget and billing alarm.
